@@ -50,4 +50,4 @@ Linear Regression
 
 Both branches repeat the training process to minimize the loss and ultimately compare the results after predictions.
 
-Thank You MichaelTobiko for the guidance.
+Thank You Michael Sir for the guidance.
